@@ -1,5 +1,6 @@
 
 # LLM-Improvement-with-RAG: End-to-End Chatbot Development
+![image](https://github.com/user-attachments/assets/7605ae22-8f47-40fd-b308-142217f89f49)
 
 This project demonstrates the development of a **Retrieval-Augmented Generation (RAG)**-based chatbot using **LangChain** and **Ollama**. The chatbot can interact with PDF documents, retrieve relevant information, and provide accurate, context-aware responses.
 
