@@ -1,0 +1,6 @@
+langchain==0.3.11
+langchain-core==0.3.25
+langchain-community==0.3.11
+langsmith==0.2.3
+chromadb==0.3.25
+pydantic>=2.7.4,<3.0.0
